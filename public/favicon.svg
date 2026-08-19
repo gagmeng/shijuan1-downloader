@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="favGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#007aff"/>
+      <stop offset="100%" stop-color="#5856d6"/>
+    </linearGradient>
+    <linearGradient id="favGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#e8e8ed" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="4" width="48" height="56" rx="12" fill="url(#favGrad)"/>
+  <rect x="14" y="10" width="36" height="44" rx="6" fill="url(#favGrad2)"/>
+  <line x1="20" y1="20" x2="38" y2="20" stroke="#007aff" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+  <line x1="20" y1="27" x2="44" y2="27" stroke="#5856d6" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="20" y1="34" x2="40" y2="34" stroke="#5856d6" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <circle cx="22" cy="42" r="2.5" fill="none" stroke="#34c759" stroke-width="2"/>
+  <line x1="28" y1="42" x2="44" y2="42" stroke="#8e8e93" stroke-width="2" stroke-linecap="round" opacity="0.45"/>
+  <path d="M40 46 L46 52 L52 44" fill="none" stroke="#34c759" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "name": "shijuan1-downloader",
+  "version": "1.0.0",
+  "description": "第一试卷网下载器 - Web Edition",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
